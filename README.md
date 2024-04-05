@@ -1,3 +1,4 @@
+## THESE BUGS WERE RESOLVED
 ### Bug 1: Number Input Mismatch
 
 **Description:**  
